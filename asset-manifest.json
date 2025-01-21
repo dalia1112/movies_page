@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movies_page/static/css/main.81b48a7f.css",
+    "main.js": "/movies_page/static/js/main.c188ccb3.js",
+    "static/media/download.jfif": "/movies_page/static/media/download.3da1671d1c00dd82f014.jfif",
+    "index.html": "/movies_page/index.html",
+    "main.81b48a7f.css.map": "/movies_page/static/css/main.81b48a7f.css.map",
+    "main.c188ccb3.js.map": "/movies_page/static/js/main.c188ccb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b48a7f.css",
+    "static/js/main.c188ccb3.js"
+  ]
+}
